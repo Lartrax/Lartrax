@@ -3,4 +3,4 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Lartrax)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lartrax&hide=stars,prs,issues,contribs&count_private=true&hide_title&hide_rank)](https://github.com/anuraghazra/github-readme-stats)
